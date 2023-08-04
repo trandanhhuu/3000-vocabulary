@@ -1,5 +1,3 @@
-8 9 10 11 12 1 -> 3000
-
 tradition - I wear traditional costume
 regular - He needs regular excercise
 Inferior - we are inferior to none
@@ -73,6 +71,54 @@ grade - she always gets good grades
 describe - he described what happened
 chart - the results are set out in the chart
 fail - ultimately all their efforts failed
+-------------------------------------------------
+planet - mercury is the closest planet to the Sun
+solve - i solve an equation
+suppose - why do you suppose he resigned?
+comprehend - i fail to comprehend their attitude
+report - the lab report seems to be missing
+content - this is really good content
+issue - the report highlights three issues
+none - none of the pie is left
+appropriate - jeans are not appropriate for a this party
+positive - he has a positive outlook on life
+village - her books are about village life
+concern - his attitude concerns me
+spread - i spread butter on the toast
+avoid - he's been avoiding me all week
+expect - we expect good news today
+frequently - i see him frequently
+represent - my lawyer will represent me in court
+calm - she has a very calm manner
+shake - shake the bottle well before use
+habit - daily bathing is an good habit
+behave - he behaved like a true gentleman
+punish - she will be punished for her crimes
+stroll - i strolled around the park
+instruct - the doctor instructed me to diet
+---------------------------------------------
+request - i requested him to help
+since - he's been off work since Monday
+experience - they have much experience of teaching
+field - people were working in the fields
+error - your essay is full of spelling errors
+continue - the economy is continuing to grow
+normal - her temperature is normal
+likely - it is likely to remain cold today
+aware - we're aware of the dangers
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
