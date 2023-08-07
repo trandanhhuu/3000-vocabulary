@@ -279,16 +279,165 @@ contain - the bottle contains five liters
 hole - we dig a hole to plant the tree
 burn - she burned his old love letters
 --------------------------------------
-
-
-
-
-
-
-
-
-
-
+sight - the disease has affected her sight
+crop - flash fload destroy the crops
+owe - you owe me ten dollars
+position - is everybody in position?
+desciption - her beauty is beyond description
+mail - you have mail
+store - i'm going to the store
+local - it was difficult to understand the local dialect
+technology - chemical technology is developing fast
+control - the government is trying to control spending
+print - the book's title was printed below the author
+example - let me give you an example
+direct - there is no direct flight today
+sheet - she tear a sheet out of her notebook
+coach - tim is my soccer coach
+novel- his novel is selling really well
+exam - the midterm exams are coming up
+limit - there's no age limit for applicants
+scene - he paint scene of country life
+outline - the introduction outlines the content each chapter
+suffer - do you suffer from migraine?
+silly - stop asking silly questions
+poet - he's my favorite poet
+magical - her words had a magical effect on me
+consume - my new car consumes less fuel
+yet - the best was yet to come
+risk - you have to weigh risks and benefits
+-----------------------------------------
+across - she walk across the road
+length - measure the length of the line from A to E
+opportunity - don't miss this opportunity!
+race - who won the race?
+respond - she never responded to my letter
+wonder - i wonder who she is
+extreme - they live in extreme poverty
+fear - the boy showed no fear
+happen - you'll never guess what's happened
+prize - she deserves first prize
+realize - why don't i realize earlier?
+mistake - you are making a big mistake
+observe - i want you to observe all the details
+characteristic - everyone has a special characteristic
+breathe - always breathe through your nose
+excite - you should excite the senses of your bady
+fortunate - we are fortunate in having a lot of land
+country - texas is divided into 254 countries
+board - the teacher write her name up on the board
+process - graying hair is part of the aging process
+century - it was built in the twentieth century
+maybe - maybe you should tell her
+officer - he was charged with assaulting a police officer
+flat - i need a flat surface to write on
+dictionary - i couldn't find this word in the dictionary
+------------------------------------------
+exist - does life exist on other planets?
+ancient - it's an ancient city
+concert - they're organizing a concert for charity
+theater - do you enjoy working in the theatre?
+academy - i'm a student of academy of finance
+hidden - hidden cameras were used to improve security
+wealth - tom's never flaunted his wealth
+publish - the first edition was published last year
+pound - someone was pounding at the door
+gentleman - he is a perfert gentleman
+clue - the burglar left no clues
+original - the land was returned to its original owner
+available - this is the only room available
+level - check the water level in the car radiator
+whether - i'm going, whether she likes it or not
+response - she made no response
+season - next month is the start of the rainy season
+solution - do you have a better solution?
+hill - hills are not as high as mountains
+forward - he took two steps forwards
+fair - the punishment was very fair
+flow - water flows through the pipes
+determine - it is difficult to determine the cause of the illness.
+waste - there's no time to waste!
+bright - the rooms were bright and airy
+beat - tom always beats me at tennis
+-------------------------------------------
+appreciate - i appreciate your kindness
+celebrate - we had good reason to celebrate
+lone - nine out of ten lone parents are women
+disappear - the plane disappered behind a cloud
+puddle - my son leapt over a puddle
+else - what else did he say
+price - we will have to raise ticket prices
+product - this product contains nuts
+item - each individual item has a number
+property - this building is government property
+select - please select your favorite gift
+offer - they refused my offer of assistance
+purchase - she purchased a new computer
+tool - a hammer is a simple tool
+recommend - can you recommend a good restaurant?
+indicate - is that nod an indication of your agreement?
+exact - the exact distance is ten metres
+dish - tom makes a supper dish
+treat - she felt unfairly treated
+fresh - mushrooms don't stay fresh for long
+empty - the streets were empty of people
+communicate - we communicated through an interpreter
+crowd - the crowd scattered
+depend - it depend on the weather
+argue - she's always arguing with her sister
+----------------------------------------------
+gather - the kids gathered around the car
+policy - no smoking is company policy
+international - this island now has international airport
+however - he was feeling tired. However, he went to work
+staff - i have ten staff working for me
+foreign - i like learning foreign languages
+wood - this bed frame is made of cherry wood
+doubt - i have no doubt about it
+mention - i won't mention it again
+explore - they set out to explore the city
+speech - i give a speech at tom's wedding
+lawyer - she hired a defense lawyer
+toward - he walked toward her
+conclusion - this is the report's main conclusion
+bone - the dog was gnawing at a bone
+captain - her husband had been a ship's captain
+alive - my grandfather is still alive
+glad - i'm just glad you're safe!
+bother - stop bothering me when i'm working
+injustice - i will answer injustice with justice
+social - it is a social problem
+real - is that real hair or a wig?
+war - the war has claimed thousands of lives
+already - tom had already left
+basic - i just need some basic information
+-----------------------------------------
+bit - these trousers are a bit tight
+extra - the play is to run for an extra week
+opinion - i didn't ask for your opinion!
+consider - i am considering what to do next
+goal - the referee disallowed the goal
+reflect - her face was reflected in the mirror
+regard - her work is highly regarded
+serve - she was serving behind the counter
+achieve - tom had finally achieved success
+meat - i don't eat meat
+lie - don't lie to me!
+destroy - they're destroyed all the evidence
+advise - i'd advise extreme caution
+vegetable - we grow our own vegetables
+entertain - i don't entertain very often
+worth - how much is this painting worth?
+enter - knock before you enter
+though - thougt it was late, we decided to go
+various - there are various ways of doing this
+later - i met her again three years later
+base - this novel is based on historical facts
+career - she pursue an acting career
+leave - i leave the house by the back door
+excellent - she speaks excellents English
+operation - operation of this device is simple
+appear - tom suddenly appeared in the doorway
 
 
 
